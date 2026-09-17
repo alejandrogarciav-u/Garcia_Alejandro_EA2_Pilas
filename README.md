@@ -85,21 +85,31 @@ El flujo principal del sistema puede realizarse de la siguiente manera:
 
 Aquí se muestra el menú principal de Pizza-Track.
 
+![Menú principal](img/menu.png)
+
 ### Registro de pedido
 
 Aquí se muestra el registro de una pizza con sus tres ingredientes.
+
+![Registro de pedido](img/registro.png)
 
 ### Deshacer
 
 Aquí se evidencia cómo el último pedido pasa de la pila principal a la pila secundaria.
 
+![Deshacer](img/deshacer.png)
+
 ### Rehacer
 
 Aquí se evidencia cómo el pedido deshecho vuelve a la pila principal.
 
+![Rehacer](img/rehacer.png)
+
 ### Mostrar pedido actual
 
 Aquí se muestra el pedido ubicado en el tope de la pila mediante peek().
+
+![Pedido actual](img/actual.png)
 
 
 ## Estructuras utilizadas
