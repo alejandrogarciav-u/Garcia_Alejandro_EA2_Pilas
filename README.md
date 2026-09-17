@@ -134,3 +134,11 @@ Implementa la estructura de pila mediante nodos enlazados y contiene las operaci
 ### Clase GestionPedidos
 
 Controla la Pila Principal y la Pila Secundaria para implementar las funciones de registrar, deshacer y rehacer pedidos.
+
+
+
+## Video de demostración
+
+Video individual de demostración del funcionamiento de Pizza-Track:
+
+[Ver video en YouTube] (https://youtu.be/Iog9emu-bNo)
