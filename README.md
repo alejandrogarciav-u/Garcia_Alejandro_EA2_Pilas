@@ -100,3 +100,27 @@ Aquí se evidencia cómo el pedido deshecho vuelve a la pila principal.
 ### Mostrar pedido actual
 
 Aquí se muestra el pedido ubicado en el tope de la pila mediante peek().
+
+
+## Estructuras utilizadas
+
+### Clase Pizza
+
+Representa cada pedido y almacena el nombre de la pizza junto con sus tres ingredientes.
+
+### Clase Nodo
+
+Representa cada nodo de la lista enlazada y contiene una pizza y la referencia al siguiente nodo.
+
+### Clase Pila
+
+Implementa la estructura de pila mediante nodos enlazados y contiene las operaciones:
+
+- push()
+- pop()
+- peek()
+- isEmpty()
+
+### Clase GestionPedidos
+
+Controla la Pila Principal y la Pila Secundaria para implementar las funciones de registrar, deshacer y rehacer pedidos.
