@@ -1,5 +1,7 @@
 # S35 - Manipulación de Arreglos y Listas en Java
 
+Autor: Alejandro García
+
 ## EA2 - Actividad: Pilas (Stack)
 
 ### Pizza-Track
